@@ -1,0 +1,11 @@
+.idea/
+*.iml
+node_modules/
+*.log
+.DS_Store
+dist/
+.vscode/
+.umi/
+src/page/.umi-production/
+.prettierrc
+.history/
